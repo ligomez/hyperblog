@@ -1,5 +1,6 @@
 Esta es la historia de Liliana Gómez
 
-Aprendiendo a programar.
+Aprendiendo a usar 
+git y github.
 
 En la clase de Git
