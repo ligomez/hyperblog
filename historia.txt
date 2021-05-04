@@ -2,4 +2,4 @@ Esta es la historia de Liliana Gómez
 
 Aprendiendo a usar git y github.
 
-En la clase de Git aprendo mucho para mi vida profesional
+En la clase de Git aprendo mucho para mi vida profesional y personal
